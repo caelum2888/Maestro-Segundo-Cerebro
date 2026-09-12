@@ -1,29 +1,20 @@
----
-id: SES-
-tipo: sessao
-status: concluida
-data: "{{date}}"
-participantes: []
-agentes: []
-tags: [sessao]
-relacionados: []
----
-
-# Sessão — Objetivo
-
 ## Objetivo
 
-## Contexto inicial
+<o que está sendo feito agora>
 
-## Ações realizadas
+## Ações
 
-## Resultados e evidências
+- <ação já realizada>
 
-## Decisões
+## Riscos
 
-## Riscos e bloqueios
+- <risco identificado, ou "Nenhum">
 
-## Pendências
+## Bloqueios
 
-## Próxima ação
+- <bloqueio atual, ou "Nenhum">
+
+## Status
+
+<Em andamento / Concluído / Bloqueado>
 
